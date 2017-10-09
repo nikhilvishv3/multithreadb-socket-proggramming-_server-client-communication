@@ -1,0 +1,8 @@
+#!/bin/bash
+
+clear
+while [ 2 > 1 ]
+do
+	./client& ./client&
+done
+
